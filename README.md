@@ -34,11 +34,11 @@ PARAMETERS
 
 TO GENERATE TOKEN
 ```
-UrlSigningFunction.exe -s 'http' -r '12345.r.cdnsun.net' -p '/author/david007/page/3/www.jwplayer.com' -k 'jfXNDdkOp2' -e 1333497600 -i '1.2.3.4'
+UrlSigningFunction.exe -s 'http' -r '12345.r.cdnsun.net' -p '/images/photo.jpeg' -k 'jfXNDdkOp2' -e 1333497600 -i '1.2.3.4'
 ```
 Sample Output:
 ```
-http://12345.r.cdnsun.net/author/david007/page/3/www.jwplayer.com?secure=ZTNhNjYyNjE3OTA3ZDUyYTRlOWQzMzRmMTEyZDg5NDI&expires=1333497600&ip=1.2.3.4
+http://12345.r.cdnsun.net/images/photo.jpeg?secure=DMF1ucDxtHCxwYQ==
 ```
 [msvs]:https://www.visualstudio.com/en-us/products/visual-studio-community-vs.aspx
   
