@@ -1,0 +1,5 @@
+c:\users\zlatyo\documents\visual studio 2015\Projects\UrlSigningFunction\UrlSigningFunction\bin\Debug\UrlSigningFunction.exe.config
+c:\users\zlatyo\documents\visual studio 2015\Projects\UrlSigningFunction\UrlSigningFunction\bin\Debug\UrlSigningFunction.exe
+c:\users\zlatyo\documents\visual studio 2015\Projects\UrlSigningFunction\UrlSigningFunction\bin\Debug\UrlSigningFunction.pdb
+c:\users\zlatyo\documents\visual studio 2015\Projects\UrlSigningFunction\UrlSigningFunction\obj\Debug\UrlSigningFunction.exe
+c:\users\zlatyo\documents\visual studio 2015\Projects\UrlSigningFunction\UrlSigningFunction\obj\Debug\UrlSigningFunction.pdb
