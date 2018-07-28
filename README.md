@@ -1,4 +1,4 @@
-#Token generator for URL Signing
+# Token generator for URL Signing
 
 REQUIRES
  * .NET Framework 3.5+
